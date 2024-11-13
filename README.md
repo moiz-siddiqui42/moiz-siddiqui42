@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **Operating systems, and game development!**
 
+Interested in primarily game development and website development!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
