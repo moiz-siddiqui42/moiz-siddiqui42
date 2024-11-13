@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moiz</h1>
-<h3 align="center">A passionate frontend devComputer Science student at University Of Calgary | Proficient at Java, Python and Assembly Language 🌱eloper from India</h3>
+<h3 align="center">A passionate frontend dev Computer Science student at University Of Calgary | Proficient at Java, Python and Assembly Language </h3>
 
 - 🔭 I’m currently working on **Pygame projects, Haskell Programming language, html, and much more!**
 
-- 🌱 I’m currently learning **exploring Operating systems, and game development!**
+- 🌱 I’m currently learning **Operating systems, and game development!**
 
-- 📫 How to reach me **siddiquimoiz111@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
