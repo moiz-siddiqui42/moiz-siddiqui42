@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moiz</h1>
-<h3 align="center">A passionate frontend dev Computer Science student at University Of Calgary | Proficient at Java, Python and Assembly Language </h3>
+<h1>Hi 👋, I'm Moiz</h1>
+<h3>A passionate frontend dev Computer Science student at University Of Calgary | Proficient at Java, Python and Assembly Language </h3>
 
 - 🔭 I’m currently working on **Pygame projects, Haskell Programming language, html, and much more!**
 
