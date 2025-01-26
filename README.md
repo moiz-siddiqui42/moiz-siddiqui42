@@ -1,16 +1,42 @@
-<h1>Hi 👋, I'm Moiz Siddiqui</h1>
-<h3>A passionate frontend dev Computer Science student at University Of Calgary | Proficient at Java, Python and Assembly Language </h3>
+# Welcome to Moiz Siddiqui's GitHub!
 
-- 🔭 I’m currently working on **Pygame projects, Haskell Programming language, html, and much more!**
+Hi there! 👋 I'm **Moiz Siddiqui**, a passionate and dedicated **Computer Science student at the University of Calgary** (Graduating May 2026). I am actively seeking opportunities to apply my skills in software development, game development, and innovative tech projects. Explore my work to see how I transform ideas into impactful solutions.
 
-- 🌱 I’m currently learning **Operating systems, and game development!**
+---
 
-Interested in primarily game development and website development!
+## **About Me**
+- 📚 **Currently Learning**: React, Embedded Systems, and Advanced Java programming.
+- 💻 **Currently Working On**:
+  - Developing real-time systems for CubeSat satellite communication.
+  - Enhancing game mechanics for Pygame-based projects.
+  - Exploring innovative front-end designs using React.
+- 🚀 Passionate about: Space technology, game development, and building scalable systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/moiz-siddiqui-021154203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moiz-siddiqui-021154203/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## **Pinned Projects**
+
+These are the projects I’ve chosen to highlight on my GitHub profile for their innovation and relevance to my interests and goals:
+
+### 🕹️ [Dynamic Fighting Game](https://github.com/moiz-siddiqui42/Fighting-game)
+A **Street Fighter-inspired game** developed using JavaScript and HTML, featuring single and multiplayer modes with health bar mechanics and animated sprites.
+
+### 🎯 [Aim-Lock-Fire Game](https://github.com/moiz-siddiqui42/Aim-Lock-Fire-game)
+A Pygame-based take on **Pong**, with shooting mechanics. Players score points by hitting their opponents, with support for single and multiplayer modes.
+
+### 🛒 [Self-Checkout System](https://github.com/moiz-siddiqui42/Self-Checkout-System)
+A collaborative project built in Java, featuring advanced grocery self-checkout capabilities like scanning by weight, multilingual support, and robust payment options.
+
+### 🌐 [Addictions Awareness Website](https://github.com/moiz-siddiqui42/AddictionsWebsite)
+An informative and responsive website designed to spread awareness about addictions, built using HTML, CSS, and JavaScript.
+
+---
+
+## **Connect With Me**
+- 📫 **Email**: [siddiquimoiz111@gmail.com](mailto:siddiquimoiz111@gmail.com)
+- 🌐 **LinkedIn**: [linkedin.com/in/moiz-siddiqui](https://linkedin.com/in/moiz-siddiqui-021154203)
+- 💻 **GitHub**: [github.com/moiz-siddiqui42](https://github.com/moiz-siddiqui42)
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss exciting opportunities. Let’s build something amazing together!
