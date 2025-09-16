@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi there! 👋 I'm **Moiz Siddiqui**, a passionate and dedicated **Computer Science student at the University of Calgary** (Graduating May 2026). I am actively seeking opportunities to apply my skills in software development, game development, and innovative tech projects. Explore my work to see how I transform ideas into impactful solutions.
+Hi there! 👋 I'm **Moiz Siddiqui**, a passionate and dedicated **Computer Science student at the University of Calgary**. I am actively seeking opportunities to apply my skills in software development, game development, and innovative tech projects. Explore my work to see how I transform ideas into impactful solutions.
 
 ---
 
